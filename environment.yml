@@ -1,0 +1,16 @@
+name: orthohmmer_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy<1.24
+  - numba
+  - scipy
+  - pandas>=1.5.1
+  - python-wget
+  - pytest
+  - pip
+  - hmmer>=3.3.2
+  - mcl

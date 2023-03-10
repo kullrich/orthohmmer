@@ -1,0 +1,7 @@
+numpy<1.24
+numba
+scipy
+pandas>=1.5.1
+wget
+pytest
+pip
